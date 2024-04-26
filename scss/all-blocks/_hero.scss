@@ -1,0 +1,70 @@
+.hero_wrapper {
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    .hero_title {
+        text-align: center;
+        width: 353px;
+        height: 50px;
+        font-family: Source Sans Pro;
+        font-size: 64px;
+        font-weight: 700;
+        line-height: 80.45px;
+        text-align: left;
+        color: #333333;
+    }
+
+    .hero_text {
+        text-align: center;
+        width: 389px;
+        height: 145px;
+        font-family: Source Sans Pro;
+        font-size: 24px;
+        font-weight: 400;
+        line-height: 30.17px;
+        text-align: center;
+        color: #333333;
+    }
+
+    form {
+        width: auto;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #email {
+        width: 384px;
+        height: 60px;
+        border-radius: 4px;
+        border: 1.5px solid #333333;
+        font-family: Source Sans Pro;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 22.63px;
+        color: #00000080;
+        margin-bottom: 21px;
+        padding-left: 20px;
+    }
+
+    .form_button {
+        width: Hug (143px)px;
+        height: Hug (50px)px;
+        padding: 10px 20px 10px 20px;
+        border-radius: 8px;
+        background: #333333;
+        font-family: Source Sans Pro;
+        font-size: 24px;
+        font-weight: 600;
+        line-height: 30.17px;
+        text-align: center;
+        color: #FFFFFF;
+        border: none;
+    }
+}
